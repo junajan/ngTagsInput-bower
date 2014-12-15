@@ -2,12 +2,11 @@
   "name": "ng-tags-input-updated",
   "version": "2.1.1",
   "location": "https://github.com/junajan/ngTagsInput-bower/",
-  "homepage": "http://mbenford.github.io/ngTagsInput",
   "main": [
-    "ng-tags-input.min.js",
-    "ng-tags-input.min.css"
+    "ng-tags-input-updated.min.js",
+    "ng-tags-input-updated.min.css"
   ],
-  "description": "Tags input directive for AngularJS",
+  "description": "Tags input directive for AngularJS based on ngTagsInput",
   "dependencies": {
     "angular": ">=1.2.1"
   }
