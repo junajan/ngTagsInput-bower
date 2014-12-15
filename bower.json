@@ -1,7 +1,7 @@
 {
-  "name": "ng-tags-input",
+  "name": "ng-tags-input-updated",
   "version": "2.1.1",
-  "location": "https://github.com/mbenford/ngTagsInput-bower",
+  "location": "https://github.com/junajan/ngTagsInput-bower/",
   "homepage": "http://mbenford.github.io/ngTagsInput",
   "main": [
     "ng-tags-input.min.js",
